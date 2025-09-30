@@ -1,8 +1,6 @@
-using UnityEditor.Experimental.GraphView;
 using UnityEngine;
-using UnityEngine.UIElements;
 
-public class capsule : MonoBehaviour
+public class Grow : MonoBehaviour
 {
     [SerializeField] private float speed = 1.0f;
     [SerializeField] private Vector3 directionScale;

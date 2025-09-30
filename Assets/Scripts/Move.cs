@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class sphere : MonoBehaviour
+public class Move : MonoBehaviour
 {
     [SerializeField] private float speed = 1.0f;
     [SerializeField] private Vector3 direction;
